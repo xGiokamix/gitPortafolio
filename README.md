@@ -19,13 +19,22 @@ Crea Repositorio Git (carpeta) lugar donde se va a guardar todo el historial de 
 |Ayuda  |`git global --help`               |  
 
 # Comandos Git  
-|                                   |                                  |
-|-----------------------------------|----------------------------------|  
-|Abrir carpeta                      |`open .` o `start .c`             |
-|Abrir IDE                          |`code .`                          |
-|Muestra estado del proyecto        |`git status`                      |
-|Agrega los cambios del proyecto    |`git add archivo`                 |
-|Confirma los cambios del proyecto  |`git commit -m "mensaje"`         |
-|Abrir IDE                          |`code .`                          |
-|Abrir IDE                          |`code .`                          |
-|Abrir IDE                          |`code .`                          |
+|                                       |                                  |
+|---------------------------------------|----------------------------------|  
+|Abrir carpeta                          |`open .` o `start .c`             |
+|Abrir IDE                              |`code .`                          |
+|Muestra estado del proyecto            |`git status`                      |
+|Agrega los cambios del proyecto        |`git add archivo`                 |
+|Confirma los cambios del proyecto      |`git commit -m "mensaje"`         |
+|Elimina el último commit               |`git reset --hard HEAD^ `         |
+|Renombra archivo                       |`git mv archivo nuevoArchivo`     |
+|Muestra todos los commits              |`git log`                         |
+|Agrega todos los archivos de la carpeta|`git add .`                       |
+|Agrega todo los archivos del proyecto  |`git add -A`                         |
+|Muestra todos los commits              |`git log`                         |
+|Muestra todos los commits              |`git log`                         |
+|Muestra todos los commits              |`git log`                         |
+|Muestra todos los commits              |`git log`                         |
+|Muestra todos los commits              |`git log`                         |
+|Muestra todos los commits              |`git log`                         |
+|Muestra todos los commits              |`git log`                         |

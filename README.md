@@ -38,7 +38,13 @@ Crea Repositorio Git (carpeta) lugar donde se va a guardar todo el historial de 
 |Muestra todos los commits de un archivo    |`git log archivo`                 |
 |Muestra todos los commits hechos por autor |`git log --author="autor"`        |
 |Busca todos los commits por palabra        |`git log --grep="palabra"`        |
-|Muestra todos los commits                  |`git log`                         |
-|Muestra todos los commits                  |`git log`                         |
+|Muestra todos los commits de forma grafica |`git log --graph`                 |
+|Muetra como se encontraba el proyecto      |`git checkout idcommit`           |
+|Cambia a la rama master                    |`git checkout master`             |
+|Muestra todas las ramas del proyecto       |`git branch`                      |
+|Crea nueva rama                            |`git checkout -b nuevaRama`       |
+|Elimina una rama                           |`git branch -d rama`              |
+|Crea nueva rama                            |`git switch -c nuevaRama`         |
+|Cambia de rama                             |`git switch rama`                 |
 |Muestra todos los commits                  |`git log`                         |
 |Muestra todos los commits                  |`git log`                         |

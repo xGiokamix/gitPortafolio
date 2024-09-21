@@ -46,5 +46,10 @@ Crea Repositorio Git (carpeta) lugar donde se va a guardar todo el historial de 
 |Elimina una rama                           |`git branch -d rama`              |
 |Crea nueva rama                            |`git switch -c nuevaRama`         |
 |Cambia de rama                             |`git switch rama`                 |
-|Muestra todos los commits                  |`git log`                         |
-|Muestra todos los commits                  |`git log`                         |
+|Muestra diferencias entre las ramas        |`git diff rama`                   |
+|Fusiona rama                               |`git merge rama`                  |
+|                               |`git `                  |
+|                               |``                  |
+|                               |``                  |
+|                               |``                  |
+|                               |``                  |
